@@ -1,0 +1,38 @@
+# Keil MDK 编译产物
+MDK-ARM/demo1_bee/
+MDK-ARM/*.uvguix.*
+MDK-ARM/*.uvoptx
+MDK-ARM/*.uvprojx.bak
+*.uvguix.*
+*.uvoptx.bak
+
+# Keil 输出文件
+*.o
+*.d
+*.crf
+*.lst
+*.map
+*.htm
+*.lnp
+*.axf
+*.hex
+*.bin
+*.elf
+*.d
+*.dep
+*.iex
+*.build_log.htm
+*.JLinkLog.txt
+
+# 中间产物
+*.orig
+*.bak
+*.log
+*.tmp
+
+# 编辑器/系统
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+Desktop.ini
